@@ -1,0 +1,2 @@
+<h1>Heading Has Been Changed With the Help Of AJAX</h1>
+<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis assumenda ad eos distinctio. Dicta adipisci iure, nihil natus dolorem tempora distinctio non impedit quam perferendis eaque commodi veritatis odio et.</p>
